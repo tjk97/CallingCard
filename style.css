@@ -1,7 +1,7 @@
 background-attachment:  fixed;
-
+/*mozzela advised to do that^ I'm not sure what it accomplished*/
 header{
-  background-color: grey;
+  background-color: grey;/*seems pointless*/
 }
 
 body{
@@ -12,7 +12,7 @@ main{
   padding-left: 20px;
 }
 
-
+/*is the following overkill? wish I had months just to play around with it*/
 h1{
   color: #000;
   font-family: 'Times New Roman', Times, serif;
@@ -72,7 +72,7 @@ footer{
   text-align: center;
 }
 
-hr{
+hr{ /*again I have a lot to learn and my attention is caught*/
   width: 15px;
   height: 15px;
   border: none;
