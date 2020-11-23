@@ -3,9 +3,10 @@ background-attachment:  fixed;
 header{
   background-color: grey;/*seems pointless*/
 }
-
+ 
 body{
   min-width: 300px;
+  background-color: deepskyblue;
 }
 
 main{
