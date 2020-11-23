@@ -1,7 +1,7 @@
 background-attachment:  fixed;
 /*mozzela advised to do that^ I'm not sure what it accomplished*/
 header{
-  background-color: grey;/*seems pointless*/
+  background-color: rgb(209, 21, 21);/*seems pointless*/
 }
  
 body{
