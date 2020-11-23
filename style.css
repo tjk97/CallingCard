@@ -39,6 +39,16 @@ h2{
   padding: 50px 50px 50px 50px;
   margin: 20px 20px 20px 20px
 }
+
+h3{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: darkslategray;
+  font-weight: 400;
+  text-align:center;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
 p{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
