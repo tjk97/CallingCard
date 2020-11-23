@@ -65,6 +65,16 @@ ul{
   line-height:100%;
 }
 
+a{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+}
+
+a:link {color:blue;}
+a:visited {color:darkred;}
+a:hover {color:forestgreen;}
+a:active {color: deeppink;}
+
 footer{
   font-family: 'Times New Roman', Times, serif;
   font-size: 40px;
